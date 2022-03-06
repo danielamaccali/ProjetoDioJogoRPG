@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\bin\Debug\netcoreapp3.1\DesafioDioJogoRPG.exe
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\bin\Debug\netcoreapp3.1\DesafioDioJogoRPG.deps.json
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\bin\Debug\netcoreapp3.1\DesafioDioJogoRPG.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\bin\Debug\netcoreapp3.1\DesafioDioJogoRPG.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\bin\Debug\netcoreapp3.1\DesafioDioJogoRPG.dll
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\bin\Debug\netcoreapp3.1\DesafioDioJogoRPG.pdb
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.dll
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.pdb
+D:\DANIELA\PROGRAMACAO\DioJogoRPG\DesafioDioJogoRPG\obj\Debug\netcoreapp3.1\DesafioDioJogoRPG.genruntimeconfig.cache
